@@ -28,17 +28,17 @@
 #### This Bot can extract audios and subtitles from video files.
 #### Send any valid video file and the bot shows you available streams in it that can be extracted!!
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at t.me/hellohoneybuny
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Streams-Extractor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/honeybunny002/iustreamextractor)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Streams-Extractor
+git clone https://github.com/honeybunny002/iustreamextractor
 cd Streams-Extractor
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
