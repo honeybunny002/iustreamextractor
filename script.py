@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @hellohoneybuny
 
 
 class Script(object):
@@ -13,10 +13,10 @@ Send me any video file and extract what you want :).
 
 See <i>help</i> for more details.
 
-© @TroJanzHEX</b>"""
+© IU</b>"""
 
 
-    HELP_MSG = """<b>Hai, Follow these Steps..</b>
+    HELP_MSG = """<b>Hi, Follow these Steps..</b>
 
 🌀 <i>Send me any Valid video file.</i>
 
@@ -26,15 +26,15 @@ See <i>help</i> for more details.
 
 🌀 <i>Now select the stream you need to extract!</i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© IU</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : IU Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @hellohoneybuny    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.4.0</a> 
 
 """
