@@ -19,5 +19,5 @@ class Config(object):
     USERS = "956022686 5443081541 1226841901 1671626669 866649963 5160169373 1958851206 778988294 947859478 1157557110 1772988300 2135072465 1363236962 1178035103 1363236962"  
 
     # Array to store users who are authorized to use the bot
-    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
+    AUTH_USERS = set(int(x) for x in USERS.split())
     
