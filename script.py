@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @hellohoneybuny
+# @hellohoneybunnyy
 
 
 class Script(object):
@@ -31,7 +31,7 @@ See <i>help</i> for more details.
 
     ABOUT_MSG = """⭕️<b>My Name : IU Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @hellohoneybuny    
+⭕️<b>Creater :</b> @hellohoneybunnyy    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
