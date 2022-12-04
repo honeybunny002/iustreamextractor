@@ -8,12 +8,12 @@ import os
 class Config(object):
 
     # Get a bot token from botfather
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    BOT_TOKEN = "5507245538:AAHanmyr-_aLK36wVehqHNrKjJpknq9q618"
 
 
     # Get from my.telegram.org (or @UseTGXBot)
-    APP_ID = int(os.environ.get("APP_ID", ""))
-    API_HASH = os.environ.get("API_HASH", "")
+    APP_ID = 5080899
+    API_HASH = "6fc7f813cf96e6692990b752b43fd9c7"
 
 
     # Array to store users who are authorized to use the bot
