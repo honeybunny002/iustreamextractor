@@ -1,4 +1,4 @@
-pyrogram==2.0.57
+pyrogram==1.4.0
 TgCrypto
 ffmpeg
 hachoir
